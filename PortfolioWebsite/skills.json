@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/?size=100&id=13679&format=png&color=000000"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/?size=100&id=13441&format=png&color=000000"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/?size=100&id=20909&format=png&color=000000"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/?size=100&id=21278&format=png&color=000000"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/?size=100&id=108784&format=png&color=000000"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000"
+    },
+    {
+        "name": "Power BI",
+        "icon": "https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000"
+    },
+    {
+        "name": "MS Excel",
+        "icon": "https://img.icons8.com/?size=100&id=13654&format=png&color=000000"
+    },
+    {
+        "name": "Machine Learning",
+        "icon": "https://img.icons8.com/?size=100&id=ZWIgKlS0AmPk&format=png&color=000000"
+    },
+    {
+        "name": "Deep Learning",
+        "icon": "https://img.icons8.com/?size=100&id=Q8TZgy8bDaSf&format=png&color=000000"
+    },
+    {
+        "name": "Neural Network",
+        "icon": "https://img.icons8.com/?size=100&id=WDI63NQbh3cO&format=png&color=000000"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/?size=100&id=bVGqATNwfhYq&format=png&color=000000"
+    }
+]
